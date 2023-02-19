@@ -19,6 +19,11 @@ ZCZC W01 30 SCELE/Discord related
 ZCZC W01 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 120 L31 VirtualBox: install GNU/LINUX, etc.
 ZCZC W01 180 L11 Assignment #01
+ZCZC W01 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 30 L23 Bash, Regex, SED, AWK.
+ZCZC W01 30 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 10 L41 TXT/mylog.txt related
+ZCZC W01 120 L11 Assignment #01
 
 
 
