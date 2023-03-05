@@ -12,3 +12,9 @@ Week 2:
 https://linuxhint.com/solve-gpg-decryption-failed-no-secret-key-error/ -> Helps me when i ran into some gpg problems\n
 https://shellscript.sh -> Basic understanding of linux shell scripting\n
 https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91 -> Understand the uses of gpg keys, etc.\n
+\n
+Week 3:
+https://www.cs.cornell.edu/ -> The tarball documentations helps me in understanding tarballs\n
+https://shellscript.sh/ -> Basic understanding of scripting, scripting logic\n
+https://www.devdungeon.com/content/gpg-tutorial -> GPG Tutorial, great documentations\n
+
