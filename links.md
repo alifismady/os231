@@ -26,3 +26,9 @@ https://www.youtube.com/watch?v=x-3TBVtM0-Y -> Linux simple understanding
 https://www.guru99.com/introduction-to-shell-scripting.html -> Understanding script, helps to identify mistakes in ATTN
 https://www.youtube.com/watch?v=boqC9QenshY -> Youtube script tutorial
 
+Week 5:
+
+https://os.vlsm.org/Slides/os05.pdf -> OS W05 PPT, to understand memory in vm
+https://www.techtarget.com/searchdatacenter/definition/kernel-panic -> Explaining what is kernel panic when boot with low memory
+https://www.geeksforgeeks.org/virtual-memory-in-operating-system/ -> Explained the basic of VM in OS
+
