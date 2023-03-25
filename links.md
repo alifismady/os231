@@ -32,3 +32,9 @@ https://os.vlsm.org/Slides/os05.pdf -> OS W05 PPT, to understand memory in vm
 https://www.techtarget.com/searchdatacenter/definition/kernel-panic -> Explaining what is kernel panic when boot with low memory
 https://www.geeksforgeeks.org/virtual-memory-in-operating-system/ -> Explained the basic of VM in OS
 
+Week 6:
+
+https://www.geeksforgeeks.org/fork-system-call/ -> Help me understanding the fork() in C lang.
+https://youtu.be/OrM7nZcxXZU -> Explanation of deadlock with exercises
+https://www.section.io/engineering-education/fork-in-c-programming-language/ -> Another good explanations of fork()
+
