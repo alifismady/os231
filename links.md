@@ -38,3 +38,9 @@ https://www.geeksforgeeks.org/fork-system-call/ -> Help me understanding the for
 https://youtu.be/OrM7nZcxXZU -> Explanation of deadlock with exercises
 https://www.section.io/engineering-education/fork-in-c-programming-language/ -> Another good explanations of fork()
 
+Week 7:
+
+https://chat.openai.com/chat -> Help me so much in understanding the error I encountered
+https://askubuntu.com/questions/66492/scp-copy-over-ssh-doesnt-work-permission-denied-error-please -> The answered questions helps me understanding the scp
+https://acloudguru.com/blog/engineering/ssh-and-scp-howto-tips-tricks -> Help me in using scp and ssh
+
