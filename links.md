@@ -44,3 +44,7 @@ https://chat.openai.com/chat -> Help me so much in understanding the error I enc
 https://askubuntu.com/questions/66492/scp-copy-over-ssh-doesnt-work-permission-denied-error-please -> The answered questions helps me understanding the scp
 https://acloudguru.com/blog/engineering/ssh-and-scp-howto-tips-tricks -> Help me in using scp and ssh
 
+Week 8:
+
+https://www.youtube.com/watch?v=KT7z4YbjtJ8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb&index=7 -> Very helpful explanation of LFS
+https://www.reddit.com/ -> Helpful forum with alot of information
