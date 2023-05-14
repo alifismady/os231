@@ -48,3 +48,10 @@ Week 8:
 
 https://www.youtube.com/watch?v=KT7z4YbjtJ8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb&index=7 -> Very helpful explanation of LFS
 https://www.reddit.com/ -> Helpful forum with alot of information
+
+Week 9:
+
+https://www.d.umn.edu/~gshute/os/processes-and-threads.html -> Help understands processes and threads
+https://www.geeksforgeeks.org/difference-between-process-and-thread/ -> same as the previous link
+https://www.geeksforgeeks.org/threads-and-its-types-in-operating-system/ -> Help calculates thread speed
+
