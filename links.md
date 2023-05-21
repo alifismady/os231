@@ -55,3 +55,9 @@ https://www.d.umn.edu/~gshute/os/processes-and-threads.html -> Help understands 
 https://www.geeksforgeeks.org/difference-between-process-and-thread/ -> same as the previous link
 https://www.geeksforgeeks.org/threads-and-its-types-in-operating-system/ -> Help calculates thread speed
 
+Week 10:
+
+https://www.tutorialspoint.com/operating_system/os_io_hardware.htm -> Article about I/O in SO
+https://www.geeksforgeeks.org/socket-programming-cc/ -> Article about socket programming in C
+https://www.youtube.com/watch?v=1eOdaXS-wVE -> A video that shows me many things about the benefit of doing LFS 
+

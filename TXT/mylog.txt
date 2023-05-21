@@ -73,4 +73,8 @@ ZCZC W09 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W09 60 L05 Quiz related including studying
 ZCZC W09 300 L19 Assignment #09
 ZCZC W09 60 L00 General, etc
+ZCZC W10 60 L00 General, etc
+ZCZC W10 300 L20 Assignment #10
+ZCZC W10 95 L05 Quiz related including studying
+ZCZC W10 60 L00 General, etc
 
